@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 AWS INtegration project  
 
  in this project i use 
  react 
  nodejs   for backend 
- typescript for css
+ tailwind for css
 
 
 
@@ -37,6 +36,3 @@ AWS integration
 
 
 
-=======
-# viraginfotect-task
->>>>>>> 3ea46f31ad458197d9ac3e7ef2a35fe44902ed23
